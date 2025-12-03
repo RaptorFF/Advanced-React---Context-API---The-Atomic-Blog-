@@ -12,6 +12,7 @@
 - Creating and Providing a Context;
 - Consuming the Context;
 - A Custom Provider and Custom Hook;
+- memo, useMemo() and useCallback();
 
 **Notes**
 - If you want to use Context API,  always follow this patern!
